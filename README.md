@@ -1,9 +1,7 @@
 # pwsh__Quit
-
-Powershell script to stop processes with the given name.
+Powershell util to stop processes with the given name.
 
 # Usage
-
 ```powershell
 # First import the module
 Import-Module ./Quit.psm1
