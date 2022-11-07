@@ -1,5 +1,5 @@
 # pwsh__Quit
-Powershell util to stop processes with the given name.
+Powershell tool to stop processes with the given name.
 
 # Usage
 ```powershell
